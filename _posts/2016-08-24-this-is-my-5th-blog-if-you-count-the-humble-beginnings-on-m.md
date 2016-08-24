@@ -1,16 +1,16 @@
 ---
 title: ''
-datePublished: '2016-08-24T20:41:53.225Z'
-dateModified: '2016-08-24T20:36:46.517Z'
+datePublished: '2016-08-24T21:01:09.601Z'
+dateModified: '2016-08-24T21:01:09.169Z'
 author: []
 description: >-
   This is my 5th blog, if you count the humble beginnings on MySpace. I like to
   change things up now and then!
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-24-this-is-my-5th-blog-if-you-count-the-humble-beginnings-on-m.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
