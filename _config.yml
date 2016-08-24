@@ -24,3 +24,7 @@ color:
   rhythmicContrast: 0.767629
 layout_spectrum: 1
 name: Finestkinddesigns
+navigation:
+  - name: About
+    id: 7ed5ab2b-1c33-41f5-9884-70da00cf08e7
+    type: content
