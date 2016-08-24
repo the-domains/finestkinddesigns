@@ -2,18 +2,17 @@
 description: >-
   “The thief comes only to steal and kill and destroy; I have come that they may
   have life, and have it to the full”-Jesus
-dateModified: '2016-08-24T17:21:37.171Z'
-datePublished: '2016-08-24T17:23:56.411Z'
+dateModified: '2016-08-24T17:34:28.640Z'
+datePublished: '2016-08-24T17:34:29.236Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-the-thief-comes-only-to-steal-and-kill-and-destroy-i-have.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-thief-comes-only-to-steal-and-kill-and-destroy-i-have/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6989d03-907c-4a14-91a9-5744de6ba181.jpg)
