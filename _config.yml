@@ -31,3 +31,6 @@ navigation:
   - name: Shop the Finest Kind
     url: 'http://thefinestkindco.com'
     type: external
+  - name: Shop 163 Design Co.
+    url: 'http://163designcompany.etsy.com'
+    type: external
