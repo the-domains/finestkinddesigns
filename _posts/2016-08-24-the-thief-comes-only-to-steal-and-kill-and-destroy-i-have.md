@@ -1,16 +1,15 @@
 ---
 author: []
-datePublished: '2016-08-25T01:07:26.194Z'
+datePublished: '2016-08-25T12:05:01.837Z'
 via: {}
 hasPage: true
 title: About
-publisher:
-  url: ''
+publisher: {}
 description: >-
   “The thief comes only to steal and kill and destroy; I have come that they may
   have life, and have it to the full”-Jesus
 sourcePath: _posts/2016-08-24-the-thief-comes-only-to-steal-and-kill-and-destroy-i-have.md
-dateModified: '2016-08-25T01:07:12.305Z'
+dateModified: '2016-08-25T12:05:01.103Z'
 starred: false
 url: about/index.html
 _type: Blurb
