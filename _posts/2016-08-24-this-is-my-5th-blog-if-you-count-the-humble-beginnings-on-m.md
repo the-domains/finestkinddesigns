@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-08-24T22:36:29.991Z'
+dateModified: '2016-08-25T12:09:33.250Z'
 author: []
 via: {}
 title: Day One
@@ -9,12 +9,11 @@ description: >-
   change things up now and then!
 sourcePath: >-
   _posts/2016-08-24-this-is-my-5th-blog-if-you-count-the-humble-beginnings-on-m.md
-datePublished: '2016-08-24T22:36:48.263Z'
+datePublished: '2016-08-25T12:09:33.758Z'
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: day-one/index.html
+_type: Blurb
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fdbbdce6a7dc87278d38086486d448e5/croprotate.jpg?cropheight=2448&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc0ea789b-36b8-4d8e-8f55-9c8437955580.jpg&x=0&y=0)
