@@ -1,4 +1,27 @@
-title: The Finest Kind Co.
+typography_spectrum: 0.5446808
+color:
+  saturation: 1
+  brandStrength: 0.5021276
+  lightness: 1
+  brandColors:
+    - '#3F535A'
+    - '#EBEBED'
+    - '#5A6D6B'
+    - '#DEBC7D'
+    - '#ACBAC7'
+  rhythmicContrast: 0.767629
+layout_spectrum: 1
+name: TheFinestKindCo
+navigation:
+  - name: About
+    id: 7ed5ab2b-1c33-41f5-9884-70da00cf08e7
+    type: content
+  - name: Shop the Finest Kind Co.
+    url: 'http://thefinestkindco.com'
+    type: external
+  - name: Shop 163 Design Co.
+    url: 'http://163designcompany.etsy.com'
+    type: external
 collections:
   - index:
       path: /
@@ -11,28 +34,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.5021276
-  lightness: 1
-  brandColors:
-    - '#3F535A'
-    - '#EBEBED'
-    - '#5A6D6B'
-    - '#DEBC7D'
-    - '#ACBAC7'
-  rhythmicContrast: 0.767629
-typography_spectrum: 0.5446808
+title: The Finest Kind Co.
 description: ''
-navigation:
-  - name: About
-    id: 7ed5ab2b-1c33-41f5-9884-70da00cf08e7
-    type: content
-  - name: Shop the Finest Kind Co.
-    url: 'http://thefinestkindco.com'
-    type: external
-  - name: Shop 163 Design Co.
-    url: 'http://163designcompany.etsy.com'
-    type: external
-layout_spectrum: 0.6085106
-name: TheFinestKindCo
